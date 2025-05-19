@@ -104,8 +104,6 @@ Arayüz, Streamlit Cloud gibi platformlarda deploy edilerek web'den erişilebili
 ## 🔗 Bağlantılar
 * 📘 Kaggle Notebook : https://www.kaggle.com/code/omerdasc/kmens-randomforesrregresor-vehicle-sales-data 
 * 📘 Veri Seti : https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
-
-🐙 GitHub Repo: (Buraya linkini eklersin)
-
+* 🐙 GitHub Repo: https://github.com/omerdsc/Random-Forest-Regressor-KMens-Car-Price
 
 
