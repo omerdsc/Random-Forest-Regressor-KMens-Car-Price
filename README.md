@@ -102,8 +102,8 @@ Kullanıcı CSV yükleyerek toplu tahmin yapabilir hale getirilebilir.
 Arayüz, Streamlit Cloud gibi platformlarda deploy edilerek web'den erişilebilir hale getirilebilir.
 
 ## 🔗 Bağlantılar
-📘 Kaggle Notebook : https://www.kaggle.com/code/omerdasc/kmens-randomforesrregresor-vehicle-sales-data
-📘 Veri Seti : https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
+* 📘 Kaggle Notebook : https://www.kaggle.com/code/omerdasc/kmens-randomforesrregresor-vehicle-sales-data 
+* 📘 Veri Seti : https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
 
 🐙 GitHub Repo: (Buraya linkini eklersin)
 
