@@ -72,6 +72,9 @@ streamlit
 
 joblib, pickle
 
+![image](https://github.com/user-attachments/assets/31e0ac39-1cc4-4f01-b672-6ea40f58e625)
+
+
 Uygulamayı Çalıştırmak İçin:
 python model_egit.py
 streamlit run app.py
