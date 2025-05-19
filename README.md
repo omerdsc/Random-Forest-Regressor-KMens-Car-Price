@@ -73,6 +73,7 @@ streamlit
 joblib, pickle
 
 ![image](https://github.com/user-attachments/assets/31e0ac39-1cc4-4f01-b672-6ea40f58e625)
+![image](https://github.com/user-attachments/assets/dd223f0f-6c3c-4c2c-ad47-a9f3e45ea6fd)
 
 
 Uygulamayı Çalıştırmak İçin:
