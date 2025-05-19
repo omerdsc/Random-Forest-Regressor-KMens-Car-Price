@@ -77,8 +77,8 @@ joblib, pickle
 
 
 Uygulamayı Çalıştırmak İçin:
-python model_egit.py
-streamlit run app.py
+* python model_egit.py
+* streamlit run app.py
 
 
 ## 📘 Kaggle Notebook
