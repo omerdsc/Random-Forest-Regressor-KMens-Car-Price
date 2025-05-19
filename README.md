@@ -32,9 +32,9 @@ Hiperparametre optimizasyonu için GridSearchCV kullanıldı:
 En iyi parametreler:
 {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 100}
 Model Performansı (Test Verisi Üzerinde)
-✅ R² Skoru: 0.914
+* ✅ R² Skoru: 0.914
 
-✅ MSE :8149058.714023462
+* ✅ MSE :8149058.714023462
 
 Bu değerler, modelin satış fiyatını yüksek doğrulukla tahmin ettiğini göstermektedir.
 
