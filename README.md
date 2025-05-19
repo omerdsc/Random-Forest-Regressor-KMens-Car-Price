@@ -63,7 +63,7 @@ Kasa tipi, vites, kilometre
 
 Dış renk, iç renk
 
-Kullanılan Kütüphaneler:
+#### Kullanılan Kütüphaneler:
 * pandas, numpy
 
 * scikit-learn
@@ -76,7 +76,7 @@ Kullanılan Kütüphaneler:
 ![image](https://github.com/user-attachments/assets/dd223f0f-6c3c-4c2c-ad47-a9f3e45ea6fd)
 
 
-Uygulamayı Çalıştırmak İçin:
+#### Uygulamayı Çalıştırmak İçin:
 * python model_egit.py
 * streamlit run app.py
 
