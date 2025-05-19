@@ -16,11 +16,11 @@ Notebook dosyasında:
 
 Eksik veriler analiz edilip mode() ve fillna() ile tamamlandı
 
+Tekrarlayan veriler duplicated() veriler kontrol edildi
+
 Korelasyon matrisi ve scatter plotlar ile ilişkiler incelendi
 
 Kategorik değişkenlerin dağılımı görselleştirildi
-
-Özellik mühendisliğiyle km_per_year gibi ek değişkenler oluşturuldu
 
 # 🧠 Modelleme
 ## 🎯 Gözetimli Öğrenme: Random Forest Regressor
